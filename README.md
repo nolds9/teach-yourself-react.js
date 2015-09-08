@@ -24,7 +24,7 @@ Sample App built following React.js official tutorial
 >  Not much it was developed out of necessity and introduces JSX  
 
 * What is the history of this technology?
-** ReactJS started as a JavaScript port of XHP, a version of PHP which Facebook released four years ago. XHP was principally concerned with minimizing Cross Site Scripting (XSS) attacks. But, there was a distinct problem with XHP: dynamic web applications require many roundtrips to the server, and XHP did not solve this problem. So, a Facebook engineer negotiated with his manager to take XHP into the browser using JavaScript and was granted six months to try it.
+ > ReactJS started as a JavaScript port of XHP, a version of PHP which Facebook released four years ago. XHP was principally concerned with minimizing Cross Site Scripting (XSS) attacks. But, there was a distinct problem with XHP: dynamic web applications require many roundtrips to the server, and XHP did not solve this problem. So, a Facebook engineer negotiated with his manager to take XHP into the browser using JavaScript and was granted six months to try it.
 
 * Who built it and why?  
 > React was created by Jordan Walke, a software engineer at Facebook. He was influenced by XHP, an HTML components framework for PHP
